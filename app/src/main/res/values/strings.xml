@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="register_txt_email_address">Enter Your E-mail Address</string>
+    <string name="register_txt_password">Enter Your Password</string>
+    <string name="register_btn_log_in">Log in</string>
+    <string name="register_msg_login_successful">Login successfully</string>
+    <string name="register_error_login_failed">"Login Failed Check your Email or password"</string>
+    <string name="register_pass_hint_pass">Password</string>
+</resources>
